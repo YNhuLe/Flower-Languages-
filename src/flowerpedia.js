@@ -34,6 +34,55 @@ const flowerpedia = [
     meaning:
       "A collection of flowers representing appreciation and celebration. Bouquets are given on various occasions to express congratulations, love, or sympathy.",
   },
+  {
+    id: 6,
+    emoji: "🌷",
+    name: "Tulip",
+    meaning:
+      "Symbolizes perfect love and elegance. Tulips are associated with spring and new beginnings and are often given as a declaration of love.",
+  },
+  {
+    id: 7,
+    emoji: "🌺",
+    name: "Hibiscus",
+    meaning:
+      "Represents delicate beauty and exotic charm. In many cultures, the hibiscus is a symbol of femininity, grace, and youthfulness.",
+  },
+  {
+    id: 8,
+    emoji: "🌹",
+    name: "Lily",
+    meaning:
+      "A symbol of purity, grace, and devotion. Lilies are often used in celebrations of life and are known to signify rebirth and transformation.",
+  },
+  {
+    id: 9,
+    emoji: "🌾",
+    name: "Lavender",
+    meaning:
+      "Represents serenity, calm, and relaxation. Lavender is often associated with healing and is valued for its soothing fragrance.",
+  },
+  {
+    id: 10,
+    emoji: "🌿",
+    name: "Ivy",
+    meaning:
+      "Symbolizes fidelity, friendship, and loyalty. Ivy plants are known for their tenacity and represent enduring relationships.",
+  },
+  {
+    id: 11,
+    emoji: "🌹",
+    name: "Orchid",
+    meaning:
+      "Symbolizes beauty, strength, and exotic charm. Orchids are often associated with luxury, refinement, and rare beauty.",
+  },
+  {
+    id: 12,
+    emoji: "🌹",
+    name: "Marigold",
+    meaning:
+      "Represents warmth, creativity, and passion. Marigolds are often associated with celebrations and bring a sense of cheerfulness.",
+  },
 ];
 
 export default flowerpedia;
