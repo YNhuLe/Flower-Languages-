@@ -14,7 +14,7 @@ function App() {
         {flowerpedia.map((flo) => (
           <Entry
             key={flo.id}
-            emoji={flo.flower}
+            emoji={flo.emoji}
             name={flo.name}
             meaning={flo.meaning}
           />

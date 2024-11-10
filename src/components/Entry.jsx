@@ -5,7 +5,7 @@ function Entry(props) {
     <div className="term">
       <dt>
         <span className="flower" role="img" aria-label="Tense Biceps">
-          {props.flower}
+          {props.emoji}
         </span>
         <span>{props.name}</span>
       </dt>
